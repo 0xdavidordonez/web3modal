@@ -24,7 +24,7 @@ st.markdown("""
       walletconnect: {
         package: WalletConnectProvider,
         options: {
-          infuraId: "0x05EB40D03e2700B4F7551b398952ec61107768C5" // Replace YOUR_INFURA_ID with your actual Infura ID
+          infuraId: "008c9ee1f9da91aab9b3254ecdc8a2f5" // Replace YOUR_INFURA_ID with your actual Infura ID
         }
       }
     };
